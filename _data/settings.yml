@@ -18,6 +18,8 @@ menu_settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+    - title: 'RSS'
+      url: 'http://amandaparks.github.io/feed.xml'
 
 grid_settings:
   grid_spacing: 10

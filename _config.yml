@@ -1,7 +1,7 @@
-site: Journal Jekyll Theme
+site: New Main Quest
 
-url: 
-baseurl: 
+url:
+baseurl:
 
 collections:
   pages:
@@ -44,14 +44,14 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+
 sass:
   style: compressed
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
 
-paginate: 6
+paginate: 5
 paginate_path: "/blog/page:num/"
-  

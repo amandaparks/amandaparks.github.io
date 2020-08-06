@@ -30,10 +30,19 @@ Software… *check* <br />
 People… *check* <br />
 Doing good in the world… *check!* <br />
 
+I needed to find out more about this industry.
 
 \*Cue montage of me researching for days into all the amazing ways VR and AR are being used in social enterprise around the world.*
 
 ![woman on computer gif](https://media.giphy.com/media/MgX8LzWrA6dgY/giphy.gif)
+
+* Chronic pain management
+* Anxiety and depression
+* Overcoming fears
+* Reducing loneliness and isolation
+* Physical rehabilitation
+* Meditation and relaxation
+* Immersive storytelling
 
 This is it! This is what I want to do next.
 

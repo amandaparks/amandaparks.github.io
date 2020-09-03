@@ -92,7 +92,7 @@ I haven’t finished mine yet but here’s a sneak peek...
 ![Spinning 3D Donut](/images/2020-09-02-firstdonut.gif)
 
 
-If you got this far, thanks for reading! If you have any tutorials or free courses you’d like to recommend, please let me know on Twitter. I’m still doing all of this on a 2013 MacBook Air (which is doing its very best!) so some things may have to wait until I’ve bought a new PC.
+If you got this far, thanks for reading! If you have any tutorials or free courses you’d like to recommend, please [let me know on Twitter](https://twitter.com/aivencha). I’m still doing all of this on a 2013 MacBook Air (which is doing its very best!) so some things may have to wait until I’ve bought a new PC.
 
 See you next time!
 

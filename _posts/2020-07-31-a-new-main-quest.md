@@ -9,7 +9,7 @@ When I was in high school, I would often stay over at my best friend’s house a
 
 For the past 7 years I’ve had a career in Japan as a freelance marketer for a variety of startups and small businesses. I relocated to Melbourne in Australia at the start of 2020, imagining I was going to continue doing much of the same, but my only contract at the time (remote work in the travel industry) was cancelled due to covid-19. I found myself unemployed for the first time in a while so decided to take the opportunity to have a break. I was feeling pretty burned out after 7 years in Japan and wanted my life to be a bit more chill and a lot less “hustle”.
 
-![relaxing corgi gif](https://media.giphy.com/media/7Y66VN3rtkPtu/giphy.gif)
+![relaxing corgi gif](/images/2020-07-31-chilling.gif)
 
 After a month of doing very little except carving my Animal Crossing island into the [shape of a pomeranian](https://twitter.com/aivencha/status/1264882941441654786), I started thinking about work again. To be honest, although marketing had allowed me to work in a bunch of interesting companies, I wasn’t in love with my job and wanted to do something else. Unfortunately, I had absolutely no idea what that something else was supposed to be. I struggled with it for a while (along with the inevitable depression that comes from being isolated in a house for months on end in a new city away from friends and family) so I sought help.
 
